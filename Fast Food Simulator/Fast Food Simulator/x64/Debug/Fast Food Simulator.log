@@ -1,0 +1,7 @@
+﻿  Burger.cpp
+  Food.cpp
+C:\Users\cdare\source\repos\C++ Level 2\Fast Food Simulator\Fast Food Simulator\Food.cpp(77,2): warning C4834: discarding return value of function with 'nodiscard' attribute
+  main.cpp
+  Generating Code...
+C:\Users\cdare\source\repos\C++ Level 2\Fast Food Simulator\Fast Food Simulator\LinkedList.h(177): warning C4715: 'LinkedList<Food>::removeItem': not all control paths return a value
+  Fast Food Simulator.vcxproj -> C:\Users\cdare\source\repos\C++ Level 2\Fast Food Simulator\x64\Debug\Fast Food Simulator.exe
