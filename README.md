@@ -1,4 +1,4 @@
-# Fast-Food-Order-Simulator
+# Food-Ordering-Simulator
 
 This is a Fast Food Order Simulator written in C++ that utilizes a Templated Linked List to store the items in your order.
 Object Oriented Programming concepts such as polymorphism, inheritance, and operator overloading are used.
